@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  -🙋🏽‍♂️ Eu sou o Samuel! Um apaixonado estudante da programação!
+  -💻 Sou um apaixonado estudante de programação, sempre em busca de novos desafios e do aprimoramento contínuo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com o propósito de me especializar tanto no back-end quanto no front-end.
 
-  -💻 Atualmente estou cursando Análise e Desenvovimento de Sistemas com o propósito de me aperfeiçoar no back-end e no front-end.
+  -🙋🏽‍♂️ Meu nome é Samuel, um desenvolvedor empenhado e criativo, com forte conhecimento em tecnologia e sua aplicação eficiente em projetos práticos. Busco sempre soluções ágeis e bem estruturadas, garantindo código de qualidade e alto desempenho. Minha paixão pela programação me motiva a aprimorar minhas habilidades constantemente, aplicando o conhecimento de forma prática para criar projetos inovadores.
 
 </p>
 
@@ -41,16 +41,9 @@
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
     <div align="left">
+  <img src="https://images.icon-icons.com/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" height ="40" alt="java logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-
 </div>
 </div>
 
