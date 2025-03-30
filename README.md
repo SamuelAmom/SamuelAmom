@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  -💻 Sou um apaixonado estudante de programação, sempre em busca de novos desafios e do aprimoramento contínuo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com o propósito de me especializar tanto no back-end quanto no front-end.
+  -💻🚀 Sou um apaixonado estudante de programação, sempre em busca de novos desafios e do aprimoramento contínuo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com o propósito de me especializar tanto no back-end quanto no front-end.
 
   -🙋🏽‍♂️ Meu nome é Samuel, um desenvolvedor empenhado e criativo, com forte conhecimento em tecnologia e sua aplicação eficiente em projetos práticos. Busco sempre soluções ágeis e bem estruturadas, garantindo código de qualidade e alto desempenho. Minha paixão pela programação me motiva a aprimorar minhas habilidades constantemente, aplicando o conhecimento de forma prática para criar projetos inovadores.
 
